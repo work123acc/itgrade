@@ -1,0 +1,24 @@
+p.pages {
+	text-align: center;
+}
+p.pages a {
+	margin-right: 5px;
+}
+.head_buttons {
+	float: right;
+	position: relative;
+	top: -40px;
+}
+th {
+	text-align: center;
+}
+.img_before {
+	max-width: 100px;
+	max-height: 100px;
+	cursor: pointer;
+}
+.img_edit {
+	max-width: 90%;
+	max-height: 300px;
+	cursor: pointer;
+}
